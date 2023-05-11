@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#b1dbe3">
+
+        <ImageView
+            android:id="@+id/tv_photoDetail"
+            android:layout_width="195dp"
+            android:layout_height="260dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/tv_titleDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="#800d2f"
+            android:background="#e3f0da"
+            android:textSize="32sp" />
+
+        <TextView
+            android:id="@+id/tv_statusDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="19dp"
+            android:layout_marginRight="16dp"
+            android:background="#e3f0da"
+            android:textColor="#121010"
+            android:lineSpacingMultiplier="1" />
+
+        <TextView
+            android:id="@+id/tv_skorDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="19dp"
+            android:layout_marginRight="16dp"
+            android:background="#e3f0da"
+            android:textColor="#121010"
+            android:lineSpacingMultiplier="1" />
+
+        <TextView
+            android:id="@+id/tv_descriptionDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
+            android:background="#e3f0da"
+            android:textColor="#121010"
+            android:lineSpacingMultiplier="1" />
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

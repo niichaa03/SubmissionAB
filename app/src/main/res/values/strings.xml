@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">AnimLovers</string>
+
+    <string name="about">About</string>
+    <string name="animes_title">Popular Anime</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_title">
+        <item>One Piece</item>
+        <item>Attack On Titan</item>
+        <item>Bungou Stray Dogs</item>
+        <item>Horimiya</item>
+        <item>Chainsaw Man</item>
+        <item>Bocchi the Rock</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Jujutsu Kaisen 0</item>
+        <item>Tenki no Ko</item>
+        <item>Maid in Abyss</item>
+        <item>Spy x Family</item>
+        <item>Kimetsu No Yaiba</item>
+        <item>Hotaru no Haka</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Status : On Going</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+        <item>Status : Complete</item>
+    </string-array>
+
+    <string-array name="data_skor">
+        <item>Skor : 8.7/10</item>
+        <item>Skor : 8.5/10</item>
+        <item>Skor : 7.8/10</item>
+        <item>Skor : 8.2/10</item>
+        <item>Skor : 8.6/10</item>
+        <item>Skor : 8.9/10</item>
+        <item>Skor : 8.6/10</item>
+        <item>Skor : 8.4/10</item>
+        <item>Skor : 8.3/10</item>
+        <item>Skor : 8.6/10</item>
+        <item>Skor : 8.6/10</item>
+        <item>Skor : 8.5/10</item>
+        <item>Skor : 8.5/10</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Episode : unknown \n Type : TV \n Tayang : 20 Oktober 1999 - ? \n Studio : Toei Animation \n Source : Manga  \n Genre : Action, Adventure, Fantasy \n \n
+            Sinopsis : \n
+            Gol D. Roger dikenal sebagai "Raja Bajak Laut", makhluk terkuat dan paling terkenal yang pernah mengarungi
+            Grand Line. Penangkapan dan eksekusi Roger oleh Pemerintah Dunia membawa perubahan di seluruh dunia.
+            Kata-kata terakhirnya sebelum kematiannya mengungkapkan keberadaan harta karun terbesar di dunia, One Piece.
+            Pengungkapan inilah yang membawa Zaman Keagungan Bajak Laut, orang-orang yang bermimpi menemukan
+            One Piece—yang menjanjikan kekayaan dan ketenaran yang tak terbatas—dan sangat mungkin puncak kejayaan dan
+            gelar Raja Bajak Laut. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 25 Episode \n Type : TV \n Tayang : 7 April 2013 - 29 September 2013 \n Studio : WitStudio \n Source : Manga \n Genre : Action, Award Winning, Drama, Suspense \n \n
+            Sinopsis : \n
+            Berabad-abad yang lalu, umat manusia dibantai hingga hampir punah oleh makhluk humanoid mengerikan yang disebut Titans,
+            memaksa manusia bersembunyi ketakutan di balik tembok konsentris yang sangat besar. Apa yang membuat raksasa ini benar-benar
+            menakutkan adalah selera mereka akan daging manusia tidak lahir dari rasa lapar, tetapi tampaknya karena kesenangan.
+            Untuk memastikan kelangsungan hidup mereka, sisa-sisa umat manusia mulai hidup dalam penghalang pertahanan, menghasilkan
+            seratus tahun tanpa satu pun pertemuan titan. Namun, ketenangan yang rapuh itu segera hancur ketika Titan kolosal berhasil
+            menembus tembok luar yang konon tak tertembus, menyalakan kembali perjuangan untuk bertahan hidup melawan kekejian pemakan
+            manusia. \n
+            Setelah menyaksikan kerugian pribadi yang mengerikan di tangan makhluk yang menyerang, Eren Yeager mendedikasikan hidupnya
+            untuk membasmi mereka dengan mendaftar ke Survey Corps, unit militer elit yang memerangi humanoid tanpa ampun di luar
+            perlindungan tembok. Eren, adik angkatnya Mikasa Ackerman, dan teman masa kecilnya Armin Arlert bergabung dalam perang
+            brutal melawan para Titan dan berlomba untuk menemukan cara mengalahkan mereka sebelum tembok terakhir ditembus. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 12 Episode \n Type : TV \n Tayang : 7 April 2016 - 23 Juni 2016 \n Studio : Bones \n Source : Manga \n Genre : Action, Misteri, Supernatural \n \n
+            Sinopsis : \n
+            Selama berminggu-minggu, panti asuhan Atsushi Nakajima telah diganggu oleh harimau mistis yang tampaknya hanya
+            dia yang tidak menyadarinya. Diduga berada di balik insiden aneh itu, remaja berusia 18 tahun itu tiba-tiba diusir
+            dari panti asuhan dan dibiarkan kelaparan, tunawisma, dan berkeliaran di kota. \n
+            Saat kelaparan di tepi sungai, Atsushi menyelamatkan seorang pria yang agak eksentrik bernama Osamu Dazai dari
+            tenggelam. Penggemar bunuh diri yang aneh dan detektif supernatural, Dazai telah menyelidiki harimau yang sama
+            yang telah meneror bocah itu. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 13 Episode \n Type : TV \n Tayang : 10 Januari 2021 - 4 April 2021 \n Studio : CloverWorks \n Source : Manga \n Genre : Romance, School Life \n \n
+            Sinopsis : \n
+            Di permukaan, pemikiran tentang Kyouko Hori dan Izumi Miyamura akan menjadi hal terakhir yang ada di benak orang. Lagipula,
+            Hori memiliki kombinasi sempurna antara kecantikan dan kecerdasan, sementara Miyamura tampak lemah lembut dan jauh dari
+            teman sekelasnya. Namun, pertemuan yang menentukan antara keduanya mengungkapkan diri mereka yang tersembunyi.
+            Meski populer di sekolah, Hori hanya memiliki sedikit waktu untuk bersosialisasi dengan teman-temannya karena pekerjaan rumah tangga.
+            Di sisi lain, Miyamura hidup di bawah hidung teman-temannya, tubuhnya memiliki tato dan tindikan rahasia yang membuatnya
+            tampak seperti berandalan yang lembut. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 12 Episode \n Type : TV \n Tayang : 12 Oktober 2022 - 28 Desember 2022 \n Studio : MAPPA \n Source : Manga \n Genre : Action, fantasy \n \n
+            Sinopsis : \n
+            Denji dirampok dari kehidupan remajanya yang normal, tidak memiliki apa-apa selain hutang ayahnya yang sangat besar.
+            Teman satu-satunya adalah hewan peliharaannya, Pochita, iblis gergaji mesin, yang dengannya dia membunuh iblis demi uang
+            yang pasti berakhir di saku yakuza. Yang bisa dilakukan Denji hanyalah memimpikan kehidupan yang baik dan sederhana:
+            hidup dengan makanan enak dan pacar cantik di sisinya. Tapi tindakan pengkhianatan rakus oleh yakuza menyebabkan
+            kematian Denji yang brutal dan terlalu cepat, menghancurkan semua harapan dia untuk mencapai kebahagiaan. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>Episode : 12 Episode \n Type : TV \n Tayang : 9 Oktober 2022 - 25 Desember 2022 \n Studio : CloverWorks \n Source : 4 koma - manga \n Genre : Comedy \n \n
+            Sinopsis : \n
+            Kerinduan untuk berteman dan tampil live dengan sebuah band, Hitori "Bocchi" Gotou yang kesepian dan cemas secara
+            sosial mencurahkan waktunya untuk bermain gitar. Pada hari yang menentukan, Bocchi bertemu dengan drummer lama
+            Nijika Ijichi, yang mengundangnya untuk bergabung dengan Kessoku Band saat gitaris mereka, Ikuyo Kita, melarikan
+            diri sebelum pertunjukan pertama mereka. Segera setelah itu, Bocchi bertemu dengan rekan band terakhirnya—bassis
+            keren Ryou Yamada. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 24 Episode \n Type : TV \n Tayang : 3 Oktober 2012 - 27 Maret 2018 \n Studio : MAPPA \n Source : Manga  \n Genre : Action, Award Winning, Fantasy \n \n
+            Sinopsis : \n
+            Iseng-iseng terlibat dalam kegiatan paranormal tak berdasar dengan Klub Gaib, siswa sekolah menengah Yuuji Itadori
+            menghabiskan hari-harinya di ruang klub atau rumah sakit, di mana ia mengunjungi kakeknya yang terbaring di tempat
+            tidur. Namun, gaya hidup santai ini segera berubah menjadi aneh ketika dia tanpa sadar menemukan benda terkutuk.
+            Memicu rangkaian kejadian supernatural, Yuuji menemukan dirinya tiba-tiba didorong ke dunia Kutukan — makhluk
+            mengerikan yang terbentuk dari kebencian dan kenegatifan manusia — setelah menelan benda tersebut, yang ternyata
+            adalah jari milik iblis Sukuna Ryoumen, "Raja Kutukan". \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 1 Episode Type : Movie \n Tayang : 24 Desember 2021 \n Studio : MAPPA \n Source : Manga  \n Genre : Action, Fantasy \n \n
+            Sinopsis : \n
+            Kemalangan kekerasan sering terjadi di sekitar Yuuta Okkotsu yang berusia 16 tahun, seorang korban intimidasi sekolah menengah yang pemalu. Yuuta dibebani dengan kutukan yang mengerikan, kekuatan yang melampiaskan dendam brutal terhadap para pengganggu. Rika Orimoto, kutukan Yuuta, adalah bayangan dari masa kecilnya yang tragis dan berpotensi menjadi ancaman mematikan bagi siapa saja yang berani berbuat salah padanya.
+            Situasi unik Yuuta menarik perhatian Satoru Gojou, seorang penyihir kuat yang mengajar di Tokyo Jujutsu High.
+            Gojou melihat potensi besar di Yuuta, dan dia berharap dapat membantu bocah itu menyalurkan beban mautnya menjadi
+            kekuatan untuk kebaikan. Namun Yuuta berjuang untuk menemukan tempatnya di antara teman-teman sekelasnya yang
+            berbakat: Toge Inumaki yang bisu secara selektif, ahli senjata Maki Zenin, dan Panda. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 1 Episode \n Type : Movie \n Tayang : 19 Juli 2019 \n Studio : CoMix Wave Films \n Source : Original  \n Genre : Drama, Fantasy, Romance, Award Winning \n \n
+            Sinopsis : \n
+            Tokyo saat ini sedang mengalami hujan deras yang sepertinya mengganggu aktivitas normal semua orang yang tinggal di
+            sana tanpa henti. Di tengah hujan yang tampaknya abadi ini tibalah siswa sekolah menengah yang melarikan diri Hodaka
+            Morishima, yang berjuang untuk menghidupi dirinya sendiri secara finansial — berakhir dengan pekerjaan di penerbit
+            kecil. Di saat yang sama, Hina Amano yang yatim piatu juga berusaha mencari pekerjaan untuk menghidupi dirinya dan
+            adik laki-lakinya. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 13 Episode \n Type : TV \n Tayang : 7 Juli 2017 - 29 September 2017 \n Studio : Kinema Citrus \n Source : WebManga  \n Genre : Adventure, Drama, Fantasy, Mystery, Sci-Fi \n \n
+            Sinopsis : \n
+            The Abyss—jurang menganga yang terbentang jauh ke dalam bumi, penuh dengan makhluk misterius dan relik dari masa
+            lampau. Bagaimana itu bisa terjadi? Apa yang terletak di bagian bawah? Individu pemberani yang tak terhitung
+            jumlahnya, yang dikenal sebagai Divers, telah berusaha untuk memecahkan misteri Abyss ini, tanpa rasa takut turun
+            ke alam tergelapnya. Penyelam yang terbaik dan paling berani, Peluit Putih, dielu-elukan sebagai legenda oleh mereka
+            yang tetap berada di permukaan. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 12 Episode \n Type : TV \n Tayang : 9 April 2022 - 25 Juni 2022 \n Studio : WitStudio, CloverWorks \n Source : Manga  \n Genre :Action, Award Winning, Comedy \n \n
+            Sinopsis : \n
+            Politisi korup, nasionalis yang hiruk pikuk, dan kekuatan penghasut perang lainnya terus-menerus membahayakan lapisan
+            tipis perdamaian antara negara tetangga Ostania dan Westalis. Terlepas dari plot mereka, mata-mata terkenal dan ahli
+            penyamaran "Twilight" memenuhi misi berbahaya satu demi satu dengan harapan tidak ada anak yang harus mengalami kengerian
+            perang. \n
+            Sayangnya bagi Loid, pria dengan bakatnya pun kesulitan memerankan sosok ayah dan suami yang penyayang. Dan seperti halnya
+            Loid yang menyembunyikan identitas aslinya, Yor—yang merupakan pembunuh bawah tanah yang dikenal sebagai "Thorn Princess"—dan
+            Anya—seorang esper yang bisa membaca pikiran orang—juga tidak punya rencana untuk mengungkapkan rahasia mereka sendiri.
+            Meskipun keluarga sempurna ini dibangun di atas penipuan, para Pemalsu secara bertahap memahami bahwa cinta yang mereka
+            bagi satu sama lain mengalahkan segalanya. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 26 Episode \n Type : TV \n Tayang : 6 April 2019 - 28 September 2019 \n Studio : Ufotable \n Source : Manga  \n Genre : Award Winning, Fantasy, Historical \n \n
+            Sinopsis : \n
+            Sejak kematian ayahnya, beban menghidupi keluarga berada di pundak Tanjirou Kamado. Meski hidup melarat di gunung terpencil,
+            keluarga Kamado bisa menikmati kehidupan yang relatif damai dan bahagia. Suatu hari, Tanjirou memutuskan untuk pergi ke desa setempat
+            untuk menghasilkan sedikit uang dengan menjual arang. Dalam perjalanan pulang, malam tiba, memaksa Tanjirou berlindung di rumah
+            seorang pria aneh, yang memperingatkannya tentang keberadaan setan pemakan daging yang mengintai di hutan pada malam hari. \n
+            Ketika dia akhirnya tiba di rumah keesokan harinya, dia bertemu dengan pemandangan yang mengerikan — seluruh keluarganya
+            telah dibantai. Lebih buruk lagi, satu-satunya yang selamat adalah saudara perempuannya Nezuko, yang telah berubah menjadi
+            iblis yang haus darah. \n \n
+            Source : myAnimeList.net
+        </item>
+        <item>
+            Episode : 1 Episode \n Type : Movie \n Tayang : 16 April 1988 \n Studio : Ghibli \n Source : Novel  \n Genre : Draman \n \n
+            Sinopsis : \n
+            Ketika Perang Dunia II mencapai kesimpulannya pada tahun 1945, Jepang menghadapi kehancuran yang meluas dalam bentuk pemboman Amerika,
+            menghancurkan kota demi kota. Hotaru no Haka , juga dikenal sebagai Grave of the Fireflies , adalah kisah Seita dan saudara perempuannya
+            Setsuko, dua anak Jepang yang hidupnya dilanda perang brutal. Mereka telah kehilangan ibu mereka, ayah mereka, rumah mereka,
+            dan prospek masa depan yang cerah—semua akibat tragis dari perang. \n
+            Sekarang yatim piatu dan tunawisma, Seita dan Setsuko tidak punya pilihan selain hanyut melintasi pedesaan, dilanda
+            kelaparan dan penyakit. Bertemu dengan sikap apatis orang dewasa di sepanjang jalan, mereka menemukan bahwa keadaan
+            putus asa dapat mengubah orang yang paling baik sekalipun menjadi kejam namun harapan muda mereka bersinar terang
+            di hadapan kesulitan yang tak henti-hentinya, mencegah saudara kandung dari dengan cepat menyerah pada takdir yang
+            tak terelakkan. \n \n
+            Source : myAnimeList.net
+        </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/op</item>
+        <item>@drawable/aot</item>
+        <item>@drawable/bungou</item>
+        <item>@drawable/horimiya</item>
+        <item>@drawable/chainsaw</item>
+        <item>@drawable/bocchi</item>
+        <item>@drawable/jjk</item>
+        <item>@drawable/jjkmovie</item>
+        <item>@drawable/tenkinoko</item>
+        <item>@drawable/maid</item>
+        <item>@drawable/spyxfamily</item>
+        <item>@drawable/demonslayer</item>
+        <item>@drawable/hotaru</item>
+    </integer-array>
+
+</resources>
