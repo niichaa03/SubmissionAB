@@ -12,6 +12,12 @@
         android:orientation="vertical"
         android:background="#b1dbe3">
 
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
         <ImageView
             android:id="@+id/tv_photoDetail"
             android:layout_width="195dp"
